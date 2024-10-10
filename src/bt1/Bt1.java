@@ -41,7 +41,7 @@ public class Bt1 {
     public static void main(String[] args) {
         
         Baitap1();
-        Baitap2();
+        System.out.println("Hello world");
         // TODO code application logic here
     }
     
