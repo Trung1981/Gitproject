@@ -45,4 +45,9 @@ public class Bt1 {
         // TODO code application logic here
     }
     
+    public static void Baitap3()
+    {
+        
+    }
+    
 }
