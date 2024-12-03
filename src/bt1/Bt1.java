@@ -45,4 +45,13 @@ public class Bt1 {
         // TODO code application logic here
     }
     
+    public static void Baitap3()
+    {
+        
+    }
+    public static void Baitap4()
+    {
+        
+    }
+    
 }
