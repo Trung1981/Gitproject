@@ -49,5 +49,9 @@ public class Bt1 {
     {
         
     }
+    public static void Baitap4()
+    {
+        
+    }
     
 }
